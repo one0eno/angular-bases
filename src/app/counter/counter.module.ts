@@ -5,4 +5,4 @@ import { CounterComponent } from './components/counter/counter.component';
   declarations: [CounterComponent],
   exports: [CounterComponent],
 })
-export class Counter {}
+export class CounterModule {}
